@@ -9,7 +9,7 @@
 
 	<properties>
 		<jaxrs.version>2.0.1</jaxrs.version>
-		<jackson.version>2.8.1</jackson.version>
+		<jackson.version>2.12.6.1</jackson.version>
 		<jdk.version>1.8</jdk.version>
 	</properties>
 
